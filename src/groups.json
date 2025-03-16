@@ -3,7 +3,7 @@
         "category": ["Educação"],
         "name": "Pedagogia",
         "url": {
-            "Whatsapp": "https:/wa.me/#",
+            "Whatsapp": "https://wa.me/",
             "Telegram": "https://web.telegram.org/"
         },
         "img": "../img/educacao.jpg"
@@ -12,7 +12,7 @@
         "category": ["Gestão e Negócios"],
         "name": "Administração",
         "url": {
-            "Whatsapp": "https:/wa.me/#",
+            "Whatsapp": "https://wa.me/",
             "Telegram": "https://web.telegram.org/"
         },
         "img": "../img/gestao.jpg"
@@ -21,7 +21,7 @@
         "category": ["Gestão e Negócios", "Jurídico"],
         "name": "Gestão de Serviços Judiciais e Notariais",
         "url": {
-            "Whatsapp": "https:/wa.me/#",
+            "Whatsapp": "https://wa.me/",
             "Telegram": "https://web.telegram.org/"
         },
         "img": "../img/juridico.jpg"
@@ -30,9 +30,9 @@
         "category": ["Tecnologia da Informação"],
         "name": "Análise e Desenvolvimento de Sistemas",
         "url": {
-            "Whatsapp": "https:/wa.me/#",
+            "Whatsapp": "https://wa.me/",
             "Telegram": "https://web.telegram.org/",
-            "Discord": "https:/discord.com/"
+            "Discord": "https://discord.com/"
         },
         "img": "../img/ti.jpg"
     }

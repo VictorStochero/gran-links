@@ -1,39 +1,255 @@
 [
-    {
-        "category": ["Educação"],
-        "name": "Pedagogia",
-        "url": {
-            "Whatsapp": "https://wa.me/",
-            "Telegram": "https://web.telegram.org/"
-        },
-        "img": "../img/educacao.jpg"
+  {
+    "category": ["Geral"],
+    "name": "Gran Faculdade",
+    "url": {
+      "Whatsapp": [
+        "https://chat.whatsapp.com/KbfuTlW87kr7kH1CQt2WWs",
+        "https://chat.whatsapp.com/G6RwkxjlcPR3In6AttnQa4"
+      ],
+      "Telegram": "https://t.me/granfaculdadealunos"
     },
-    {
-        "category": ["Gestão e Negócios"],
-        "name": "Administração",
-        "url": {
-            "Whatsapp": "https://wa.me/",
-            "Telegram": "https://web.telegram.org/"
-        },
-        "img": "../img/gestao.jpg"
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Geral"],
+    "name": "Geral - Dúvidas",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Guj8Grl1SWX8NgE2s7psP2"
     },
-    {
-        "category": ["Gestão e Negócios", "Jurídico"],
-        "name": "Gestão de Serviços Judiciais e Notariais",
-        "url": {
-            "Whatsapp": "https://wa.me/",
-            "Telegram": "https://web.telegram.org/"
-        },
-        "img": "../img/juridico.jpg"
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação", "Geral"],
+    "name": "Geral - TI Gran Faculdade",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Eh8ol5RGhv62QQGRNsVc8o",
+      "Discord": "https://discord.com/invite/XjxXPEWe93"
     },
-    {
-        "category": ["Tecnologia da Informação"],
-        "name": "Análise e Desenvolvimento de Sistemas",
-        "url": {
-            "Whatsapp": "https://wa.me/",
-            "Telegram": "https://web.telegram.org/",
-            "Discord": "https://discord.com/"
-        },
-        "img": "../img/ti.jpg"
-    }
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Educação"],
+    "name": "Letras - Português/Literatura",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/JsjGNIQDsOw3g4zYB83UX9"
+    },
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Educação"],
+    "name": "Pedagogia",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/KEMNXILpU015IUFttN422j"
+    },
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Educação"],
+    "name": "Psicopedagogia",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/B5YftgX8L011SPhvscJBxv"
+    },
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Educação"],
+    "name": "Lic. em Ciências da Computação",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/EBPcZTXyOLdALAmw3XY0X0"
+    },
+    "img": "../img/educacao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Administração",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/I64Cfc3pJeK8piia9V4ran"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Ciências Contábeis",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/GSXWpGo1BJ57vjskU5TZJJ"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Ciências Econômicas",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/EroXAFpVBXC7o0acAkUZc7"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Gestão Comercial",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Eh8ol5RGhv62QQGRNsVc8o"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Gestão Financeira",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/GbwfmbvEv1k2SnVOKLUFee"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Marketing",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/EwA7oYFxVd8BNqHovOa7pW"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Gestão de RH",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/COFb4wupVAoJmTYrfRmZcv"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios", "Jurídico"],
+    "name": "Gestão Pública",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/KVrvMYLmIxlBcViAKdS0F7"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Processos Gerenciais",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/HLNkDXGKluS7XbzIM5dLKB"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
+    "name": "Logística",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/DXksQeQxhRU3nyci71FYeT"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Criminologia",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/E6l2CTkCyJnL15q21RyQOZ"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico", "Tecnologia da Informação"],
+    "name": "Defesa Cibernética",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/CuhTg9sgE5W6iwIGuJojeQ"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Gestão de Serviços Judiciais e Notariais",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/GPxmuvQLZRBDfIHUqD5Ul5"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Ciências Jurídicas e Sociais",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/IIu7sG9fmErLlnB7aQvlYA"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Gestão de Serviços Judiciais",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/EzwaUPLFaYHJofzW6aCETq"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Segurança pública",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/JOLTbJ0cwys6HWTrTtMIro"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Jurídico"],
+    "name": "Investigação e Perícia Judicial e Extrajudicial",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/KryEctT1c8l9W4v8ndJ6Fu"
+    },
+    "img": "../img/juridico.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Análise e Desenvolvimento de Sistemas",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/HUWoYfaWtmu1gauRhhdUkB"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Ciências de dados",
+    "url": {
+      "Telegram": "https://t.me/+mT_MtEufZLUwMzAx"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Ciência da Computação",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/HkiOlMLZNFi6mmQSg4FQuw"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Engenharia de Software",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/JiSCEF35g2WJmjUX7cFujX"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Gestão de TI",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Eya1VoQEx8wIwIsC7SyV0w"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Sistemas de Informação",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Lqd5OonfZeF5qONv2y7vqY"
+    },
+    "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Segurança da Informação",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/KIEEMuZfQ590Z5IXzQiMjM"
+    },
+    "img": "../img/ti.jpg"
+  }
 ]

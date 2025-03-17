@@ -2,10 +2,19 @@
 
 .bg-whatsapp {
     background-color:#00BB2D;
+    &:hover {
+        opacity: 0.7;
+    }
 }
 .bg-telegram {
     background-color:#3390ec;
+    &:hover {
+        opacity: 0.7;
+    }
 }
 .bg-discord {
     background-color:#5865f2;
+    &:hover {
+        opacity: 0.7;
+    }
 }

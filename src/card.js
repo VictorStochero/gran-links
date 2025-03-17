@@ -24,7 +24,7 @@ export const Card = ({ category, name, url, img }) => {
 
   // Função para renderizar um botão de plataforma com o ícone correspondente
   const renderButton = (platform, url, icon) => {
-    return url ? `<a href="${url}" class="flex justify-center items-center bg-${platform.color} text-white px-2 py-1 rounded hover:bg-[#${platform.color}]/70 text-center"><img class='w-10' src="${icon}"></a>` : '';
+    return url ? `<a href="${url}" class="flex justify-center items-center bg-${platform.color} text-white px-2 py-1 rounded text-center"><img class='w-10' src="${icon}"></a>` : '';
   };
 
   // Gera os botões para WhatsApp, Telegram e Discord

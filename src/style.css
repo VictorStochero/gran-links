@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.bg-whatsapp {
+    background-color:#00BB2D;
+}
+.bg-telegram {
+    background-color:#3390ec;
+}
+.bg-discord {
+    background-color:#5865f2;
+}

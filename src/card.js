@@ -24,14 +24,14 @@ export const Card = ({ category, name, url, img }) => {
 
   // Função para renderizar um botão de plataforma com o ícone correspondente
   const renderButton = (platform, url, icon) => {
-    return url ? `<a href="${url}" class="flex justify-center items-center bg-[#${platform.color}] text-white px-2 py-1 rounded hover:bg-[#${platform.color}]/70 text-center"><img class='w-10' src="${icon}"></a>` : '';
+    return url ? `<a href="${url}" class="flex justify-center items-center bg-${platform.color} text-white px-2 py-1 rounded hover:bg-[#${platform.color}]/70 text-center"><img class='w-10' src="${icon}"></a>` : '';
   };
 
   // Gera os botões para WhatsApp, Telegram e Discord
   const buttons = [
-    { platform: { name: 'Whatsapp', color: '00BB2D' }, url: url.Whatsapp, icon: '../icons/whatsapp.svg' },
-    { platform: { name: 'Telegram', color: '3390ec' }, url: url.Telegram, icon: '../icons/telegram.svg' },
-    { platform: { name: 'Discord', color: '5865f2' }, url: url.Discord, icon: '../icons/discord.svg' }
+    { platform: { name: 'Whatsapp', color: 'whatsapp' }, url: url.Whatsapp, icon: '../icons/whatsapp.svg' },
+    { platform: { name: 'Telegram', color: 'telegram' }, url: url.Telegram, icon: '../icons/telegram.svg' },
+    { platform: { name: 'Discord', color: 'discord' }, url: url.Discord, icon: '../icons/discord.svg' }
   ].map(({ platform, url, icon }) => {
     if (Array.isArray(url)) {
       // Se 'url' for um array, renderiza múltiplos botões
@@ -51,17 +51,17 @@ export const Card = ({ category, name, url, img }) => {
   // Retorna o HTML do card com todas as informações, incluindo categorias, nome, imagem e botões de plataformas
   return `
     <article class="coursesGroups flex flex-col rounded bg-neutral-200 hover:scale-105 transition-all duration-500 ease-in-out ${categoryClass}">
-      ${newCategoryBadge} <!-- Adiciona o ícone da categoria -->
+      ${newCategoryBadge} 
       <header class="py-3 flex-1 flex justify-center items-center">
-        <h2 class="mx-10 text-center text-[#0C151D]">${name}</h2> <!-- Exibe o nome -->
+        <h2 class="mx-10 text-center text-[#0C151D]">${name}</h2> 
       </header>
       <main class="pb-3">
         <figure>
-          <img class="object-cover aspect-16/9" src="${img}"> <!-- Exibe a imagem -->
+          <img class="object-cover aspect-16/9" src="${img}">
         </figure>
       </main>
       <footer class="flex items-stretch justify-center gap-3 p-3">
-        ${buttons} <!-- Adiciona os botões para as plataformas -->
+        ${buttons} 
       </footer>
     </article>
   `;

@@ -243,5 +243,13 @@
       "Whatsapp": "https://chat.whatsapp.com/KIEEMuZfQ590Z5IXzQiMjM"
     },
     "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": Inteligência Artificial",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/KIEEMuZfQ590Z5IXzQiMjM"
+    },
+    "img": "../img/ti.jpg"
   }
 ]

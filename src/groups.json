@@ -251,5 +251,13 @@
       "Whatsapp": "https://chat.whatsapp.com/LFCW7xDBLW3DtfRlq4aeoY"
     },
     "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Sistemas para Internet",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/E9rWkQZx0OpCeiIEz7zJ2C"
+    },
+    "img": "../img/ti.jpg"
   }
 ]

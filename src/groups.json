@@ -260,5 +260,13 @@
       "Whatsapp": "https://chat.whatsapp.com/E9rWkQZx0OpCeiIEz7zJ2C"
     },
     "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Bancos de dados",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/Jk9x1eTWRm1HBkMDmS92CN"
+    },
+    "img": "../img/ti.jpg"
   }
 ]

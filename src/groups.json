@@ -268,5 +268,13 @@
       "Whatsapp": "https://chat.whatsapp.com/Jk9x1eTWRm1HBkMDmS92CN"
     },
     "img": "../img/ti.jpg"
+  },
+  {
+    "category": ["Tecnologia da Informação"],
+    "name": "Redes de Computadores",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/D6O0M5n7Azj8SzmJNt8Ckp?mode=ac_t"
+    },
+    "img": "../img/ti.jpg"
   }
 ]

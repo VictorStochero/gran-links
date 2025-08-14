@@ -70,6 +70,14 @@
   },
   {
     "category": ["Gestão e Negócios"],
+    "name": "Relações Internacionais",
+    "url": {
+      "Whatsapp": "https://chat.whatsapp.com/LXafRIb9M9R5kG39FNndx2"
+    },
+    "img": "../img/gestao.jpg"
+  },
+  {
+    "category": ["Gestão e Negócios"],
     "name": "Ciências Contábeis",
     "url": {
       "Whatsapp": "https://chat.whatsapp.com/GSXWpGo1BJ57vjskU5TZJJ"
